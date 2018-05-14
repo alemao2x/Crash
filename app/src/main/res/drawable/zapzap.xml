@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/crash1" android:duration="200"></item>
+    <item android:drawable="@drawable/crash2" android:duration="200"></item>
+    <item android:drawable="@drawable/crash3" android:duration="200"></item>
+    <item android:drawable="@drawable/crash4" android:duration="200"></item>
+    <item android:drawable="@drawable/crash5" android:duration="200"></item>
+    <item android:drawable="@drawable/crash6" android:duration="200"></item>
+    <item android:drawable="@drawable/crash7" android:duration="200"></item>
+    <item android:drawable="@drawable/crash8" android:duration="200"></item>
+    <item android:drawable="@drawable/crash9" android:duration="400"></item>
+    <item android:drawable="@drawable/crash10" android:duration="400"></item>
+    <item android:drawable="@drawable/crash11" android:duration="200"></item>
+    <item android:drawable="@drawable/crash12" android:duration="200"></item>
+    <item android:drawable="@drawable/crash13" android:duration="200"></item>
+    <item android:drawable="@drawable/crash14" android:duration="200"></item>
+    <item android:drawable="@drawable/crash15" android:duration="200"></item>
+
+</animation-list>
